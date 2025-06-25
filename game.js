@@ -66,9 +66,8 @@ function animatePress(currentColor) {
     $("#" + currentColor).removeClass("pressed");
   }, 100);
 }
-
 function playSound(name) {
-  var audio = new Audio("sounds/" + name + ".mp3");
+  var audio = new Audio(name + ".mp3");  // Removed "sounds/"
   audio.play();
 }
 
