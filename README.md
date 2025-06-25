@@ -1,40 +1,52 @@
 # 🎮 Simon Game
 
-A web-based memory sequence game built using HTML, CSS, and JavaScript — part of my Web Development learning journey.
+A web-based memory sequence game built using HTML, CSS, and JavaScript.
 
-## 🕹️ How It Works
+## 🧠 Objective
 
-- Press any key to start the game.
-- Watch the pattern shown (colors will flash).
-- Repeat the sequence by clicking the buttons in order.
-- Each level adds a new color to the pattern.
-- Game over if you click the wrong color!
+Repeat the sequence of colors as shown by the game. The sequence increases in length with each level. One wrong move ends the game!
 
-## ⚙️ Technologies Used
+## 🛠️ Tech Used
 
 - HTML5
 - CSS3
-- JavaScript (DOM manipulation, event handling)
+- JavaScript (DOM Manipulation)
+
+## 🚀 Features
+
+- Color sequence with sound
+- Keyboard start and click input
+- Level-based difficulty
+- Game Over & Restart option
 
 ## 📸 Preview
 
-> *(Add a screenshot or screen recording of the game here if you can)*
+> *(Add a screenshot or screen recording here)*
 
-## 🚀 Try It Live
+## 🌐 Live Demo
 
-> After uploading all files:
-> Go to `Settings → Pages → Deploy from main → root`  
-> Then paste the link here like:  
-> `https://ManideepLingala988.github.io/simon-game/`
+**[Play it here!](https://manideeplingala988.github.io/simon-game/)**  
+*(This will work once you deploy using GitHub Pages as below)*
 
-## 📚 What I Learned
+---
 
-- Working with DOM & events in JavaScript
-- Game logic (timing, conditions, user input)
-- Styling and layout with CSS
+## 🚀 How to Deploy on GitHub Pages
 
-## 💡 Future Improvements
+1. Go to `Settings` → `Pages`
+2. Under **Source**, choose:
+   - Branch: `main`
+   - Folder: `/root`
+3. Click Save
+4. Your game will be live at:  
+`https://manideeplingala988.github.io/simon-game/`
 
-- Add score tracking
-- Sound/mute toggle
-- Responsive for mobile
+---
+
+## ✨ Learnings
+
+- DOM events, JavaScript timing
+- Interactive game logic
+- CSS button styling
+
+---
+
