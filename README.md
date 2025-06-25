@@ -21,14 +21,13 @@ Repeat the sequence of colors as shown by the game. The sequence increases in le
 
 ## 📸 Preview
 
-> *(Add a screenshot or screen recording here)*
+![image](https://github.com/user-attachments/assets/a27f5ccb-a648-4818-92c7-ead5da36315f)
+
 
 ## 🌐 Live Demo
 
 **[Play it here!](https://manideeplingala988.github.io/simon-game/)**  
-*(This will work once you deploy using GitHub Pages as below)*
 
----
 
 ## 🚀 How to Deploy on GitHub Pages
 
